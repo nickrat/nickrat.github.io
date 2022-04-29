@@ -1,695 +1,791 @@
 #EXTM3U
-#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="Undefined",5AAB TV
-http://158.69.124.9:1935/5aabtv/5aabtv/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="Undefined",5AAB TV
-http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",A&E HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPjh-gJFtQcmoGudR9m1yl0/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ABC HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SI3KNmhS8jno3vdnAlK9654/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ABC SPARK HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SKeq1DboO-mWeVR-vdx8uD0/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ABC Spark
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFDZocLQlFjFx0spMuvnewgY?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",AMC HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SExxxMSIP40jUqqNb1RoJoQ/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHO_03L0sEb_UNEo6CQzNjE/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",AddikTV HD (FR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SC0pvQT_J5uuDO-x6dyxY7E/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Al Jazeera
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFGEVsJ-AtTJZ0Fv2PMHvtjs?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Amazing Discoveries
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFNqaGcusRzGQgIoe-unF-HM?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/zXWgbVk.png" group-title="Religious",Amazing Discoveries TV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/XgejLKw.png" group-title="Undefined",Amazing Discoveries TV,CA | Amazing Discoveries TV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Ami-Télé HD (FR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SNRT52D_rSnIVqaXpqOyrkM/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Animal Planet
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFIIrPAyXv5Aks0wqkcq4_vE?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BBC Canada
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFFHW457ycBRZEN7pMI_OmRA?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BBC Canada HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SLwpSUPJ5QUDxU_sOrOLrCg/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BBC Toronto Gaunda Punjab
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFBUc1qk3Fk_kvMp_YaTyLN0?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/uSX4YXL.png" group-title="Undefined",BBC Toronto Gaunda Punjab
-http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BNN Bloomberg
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFLMRz9WeHJbYroTElURsZ-c?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Bein Sports HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHVRmvqStYiAZb5NRAl1rj0/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Business Bloomberg
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFF58jsylUCuA0dA7GNjnwyI?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA;US" tvg-logo="https://i.imgur.com/HRqcIcR.png" group-title="Undefined",CA | EMCI TV,EMCI TV
-https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/bcHP3Vg.png" group-title="Undefined",CA | Global British Columbia,Global British Columbia
-https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/mhhVQE6.png" group-title="Undefined",CA | Global News,Global News
-https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/wlqYdqN.png" group-title="Undefined",CA | Global Toronto,Global Toronto
-https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="Undefined",CA | IIPC TV,IIPC TV
-https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA;US" tvg-logo="https://i.imgur.com/4gL9GEa.png" group-title="Undefined",CA | Legislative Assembly of Ontario,Legislative Assembly of Ontario
-http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/X9LBFzK.jpg" group-title="Undefined",CA | QVTV,QVTV
-https://qvmstream.tulix.tv/720p/720p/chunklist_w1600218747.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA;PK" tvg-logo="https://i.imgur.com/4PA2adF.png" group-title="Undefined",CA | TAG TV,TAG TV,Tag TV (Opt-1)
-http://cdn11.live247stream.com/tag/tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/FlJVD8a.png" group-title="Shop;Undefined",CA | The Shopping Channel,The Shopping Channel
-http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CAN-CBC Ottawa (720)(M)
-http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/3669?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CAN-CP24 (M)(720)
-http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/3678?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CAN-Discovery Science (M)
-http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/3681?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CAN-Disney La Chaine (M)
-http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/3709?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CAN-HBO 1 (M)
-http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/3692?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CAN-HBO 2 (720)(M)
-http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/3693?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CAN-National Geographic (720)(M)
-http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/3695?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CAN-Super Ecran (M)(720)
-http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/60371?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CAN-Super Ecran 4 (M)
-http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/3718?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CASA HD (FR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SI_xeE80EkdMkW7aWRpuock/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC Calgary
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFJPkQ0eSc-3a2ETqlPw_CGo?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC Calgary HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBWogmhfeZPH-DmDCpKMZE4/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC Central HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SCaSBrKBZhMnwUIhtABi1XA/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC Charlottetown
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFDsnIA8hnuotIEgn-1it6og?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC Eastern HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SAiVvTR6qVCECSyQAthyqPE/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC Fredericton
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFGBYVH4AAhxnhCj2JR48u50?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMq8DNwrxV6TvE0OdvlXYok/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC Halifax
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFKZo2NTgzXBMGUcPpoVJx2k?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC Kids
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFJ-2dzY8BVmPBLipEf1Q8h4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC Montreal
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFA9DjZ-yPN_7FaS71_o6f1I?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC News Network
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFHXrK_U-VsR76RYQBvnRx-8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC Toronto
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFMI1HV8kA91CBCTANKooT5c?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC Vancouver
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFH5ZxO9esyOYRlpNkOrQpFs?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC West HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFg0fSeGYQpwf0FIHnPwTe8/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBS KBAK  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFMDZNR8C-2la8x_Z8ZIeCWk?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBS KCAL  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFAyoGpgHjRkrGVxkw-fbSWU?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBS KCAL SD  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFMYfd1o70LxDB_S0aUNTjWQ?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBS KCBS  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFKl32J9gZFV_3NY6AQHma1s?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBS KION  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFK6Hr142yE6i69CqMMr_2AE?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBS KION SD  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFC236F5pQonXKxjA4uIvDUA?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBS KPIX  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFCwTT4hpWH2ektAghmS9CXQ?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CHCH
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFIRzDCTPgSka_antch3tC38?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CHCH HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SCoW1k6A2jnRwirtApyJ9yg/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CMT
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFIrKggLcI6uxL5Hyl-yI1w4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CNN
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFHCqNC-mMprW8GddxRobeDI?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CP24 HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMGcd1pzvGJzDpgL3OdM_mM/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CP24 News
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFP1Z3yOORlYBZxJL8SksVx8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CPAC HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBVV5DIwC3CBUt4Ii0NnyXg/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CPAC HD (FR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SOTT3Gbg1ivrZpl9Z0gLtKY/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="News",CTV
-https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV (KITCHENER)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SIbbMQeXs2pQei-iTQSHRjM/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV Comedy East HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJ8B1dQ4-YtMgKZyrSUEOEc/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV Drama HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGHC2ZRzyNAx0wlS-GIoIqM/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SEWb8Jrde8qczoWX_PAXuW0/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV Kitchener
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFDwCVeV9yk0swaFFIV__wbs?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV Life Channel
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFMYPfjz8xwlywPPig0hcvyw?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV Montreal SD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SNyCcJx8XTSKsvAoIxYtlyY/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV News
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFAiNVUifwyF0lX6eJFl8K44?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV Ottawa
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFD2Wh5-hH5Tt4WmvRe3L2oE?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV TORONTO
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SD8ENkdDSUAOvGVyKoQ78SM/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV Toronto
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFL6UhsCgWPeSYsf-L2BBKjs?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV Vancouver
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFE_UQgTZm2XJPHeMQfIxCsY?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV Western HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SN8rfqVT4_Gwf6fmT88oMSE/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV2 Toronto
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFNPW58SnoYKte0JPz0awtF4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CW KBCW *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFEmcW3TAq7IGBoKUoV1EUxE?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CW KBCW SD *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFPO1lA3qe_bqZNr9wr-tIbE?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CW KMAX  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFDUQCJabReaYupOUZUXr_Qo?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CW KMAX SD  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFN7zaalZBGaN8-hDFj82Frw?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/CMUHtv3.png" group-title="Sport",CanBangla TV (1080p) [Not 24/7]
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/zr6KoiS.jpg" group-title="Undefined",Canada One
-http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Canal D HD (FR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPa2bM17MK3coHmcbdakXXo/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Canal Savoir HD (FR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGbci52eFigtGl5RZsVwX2c/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Canal Vie HD (FR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJ8pdcl38gpC8csew-vXhP0/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Cartoon Network
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFAgg9D_O6fHZAijKKc_vFnI?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Citytv Toronto
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFIi8seYxoJOJXwQ1-4374YI?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Citytv Vancouver
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFAfRR6xQug9myPmWEikb_JI?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Cooking Channel HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHWWxe2fAUxImiYOICAdCPU/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Crave 2
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFMGwb0nQsbmNFnQXB6xCWx0?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Crave 3
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFLv9H3hqaJaXo5wRGOpzIsw?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Crave 3
-http://nmstreaming.us:25461/Samex5435/suNxcN8zhd/2090360?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DIY
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFI0KUDTiShzOLAC39fnC3oI?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DIY Network HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SD4Swm2AHpga1-2a0a_KPZw/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DTOUR
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFBm5GIEqlhb71n75KyLkt8Q?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Daystar
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFLJCm49D2qrwq9301JgqO6Y?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://www.deshebideshe.tv/assets/importent_images/footer-logo.png" group-title="General",DesheBideshe TV (720p)
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Discovery
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFKel7Aeu18mxiK111O6CHms?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Discovery Channel HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHNynmeFAsbsUh4aThSZ9Jk/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Discovery Science HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJE8g6xKSCxL2_2ao02mn6I/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Disney Channel HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SLD3eFjpBQPZXdinZJ27kuk/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Disney Channel HD (FR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SL2NhpuH9rHzI25I69H2dC4/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Disney Junior HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SKe5ePVrBmjiOkS_moZjdLk/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Disney XD
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFB2ah2QAtlwCKTvPifQHZxk?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Disney XD HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SF_jcZlZX_cg3pOAhog5O-s/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Documentary
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFKoTzMTkk57bqNGU6b2K6YU?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="http://www.doyeltv.com/wp-content/uploads/2020/12/LOGO-BUG-without-Slogan.png" group-title="General",Doyel TV (720p) [Not 24/7]
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/doyeltv.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="http://www.doyeltv.com/wp-content/uploads/2020/12/LOGO-BUG-without-Slogan.png" group-title="General",Doyel TV (720p) [Not 24/7]
-http://ipm.oncast.me:1934/iplived/ip-doyeltv.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://www.dukhnivaran.ca/wp-content/uploads/2019/01/dukhnivaran_logo1-1.png" group-title="Undefined",Dukh Nivaran (720p) [Not 24/7]
-http://cdn12.henico.net:8080/live/dncal/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",E! Entertainment
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFHnYYyBDIRa8BbCTK61H8w0?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",E! Entertainment HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMh_nWA3r-KbzqLPVD_t31w/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/k0Hzr3X.png" group-title="Undefined",EET TV
-https://eu.streamjo.com/eetlive/eettv.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/avIsx8W.png" group-title="Undefined",EMCI TV Montreal (Opt-2)
-https://emci-td-hls.akamaized.net/hls/live/2007264/emcitdhls/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Eternal Word Television Network
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFHs_c7WkOCyxQOQo0wuSDNU?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Evasion HD (FR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SChHshQxGROYKqY_Lth0xnA/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",FOX KCBA SD  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFMLxyz1Q2Ar_4JOPPqLkAUs?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",FOX KKFX SD  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFNBdIG9aEmENhckwJYLHcho?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",FOX KSWB  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFLgFejGx3SqVYx7Cj8F3jb8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",FOX KSWB SD  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFF6GsChJJBIVyYgKbpE0o4c?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",FOX KTTV *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFIYF70iFgcw2ycENUikyhVI?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",FOX KTTV SD  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFG_JaijezAf6oPpS2HayAQY?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",FOX KTVU  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFMMA5s0vieSYdGzAM3G4KJg?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",FOX KTVU SD  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFOZEuwrHDbeqtfBQEFf6IVU?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",FOX KTXL  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFGVR_MDcgUac8Ywxhe3daN4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",FOX KTXL SD  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFFYm0fAWEs6vII9LkR4H_Js?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",FTO HD (FR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFuHAOWxADWhN-aiuYeFsaQ/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",FX
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFNJj37rT2AAAevL-ergfF_Y?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",FX HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SEN-rHmXGvPvYl2oAw7UzAQ/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",FXX HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGcYqwHKMekgrRzbHCje0mg/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Faith TV
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFO37GoqYCNUDaKDSbSK3-Co?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Family HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPYMtqVtJaxZ2mar6R3l4CE/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Family JR HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SN_Av70fBimkBOw-ck2s7eo/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Fight Network HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SOHUZt6tORH8IrIgXg-eUCo/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Food Network
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFOajUg4KPEx4jD-MhnOncYs?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Food Network HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SL0HB2PhjuoziU_4oYMqJ9g/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Fox Sports Racing
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFHuwXdO72wM1fubrQZvzFcs?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",GINX eSports TV
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFA2hLQFOytNonhOJbFBlLmQ?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Game Plus
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFJR2BF1877y-qtJI2PA3Ao0?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Game Show Network
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFNgq5lbjBKcLhjrOdRJ4IVc?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",GameTV HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SEcyxkXVhV25GRNZ2InAswA/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Global National
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFFGJmpn8tpmo3F5l36DDpME?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/JJlPVVr.jpg" group-title="News",Global News Calgary (720p)
-https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/WjBya3b.jpg" group-title="News",Global News Edmonton (720p)
-https://live.corusdigitaldev.com/groupb/live/215422c9-d1b9-4009-aaca-32e403f22b01/live.isml/.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/HM2cvBm.jpg" group-title="News",Global News Lethbridge (720p)
-https://live.corusdigitaldev.com/groupc/live/cea96246-9af2-4373-932f-cdd3f8db2bc0/live.isml/.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/bMXVsVB.jpg" group-title="News",Global News Okanagan (720p)
-https://live.corusdigitaldev.com/groupc/live/9fd97fb0-baa8-4191-bd2c-59aa5c9a1d48/live.isml/.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/FOuegme.jpg" group-title="News",Global News Toronto (720p)
-https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Global Toronto
-http://nmstreaming.us:25461/Samex5435/suNxcN8zhd/2090381?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Global Toronto
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFAjAAGEYIB7IQsOG8hVWtmE?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Global Vancouver
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFB0f33I7b1PgkfzoLJStM3E?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Golf Channel
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFL-1R9Kf0vPm_gbHYIhaq6o?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Golf Channel HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SG6QcEv_aSyrSVqUB4kooJo/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/2EKCtQm.png" group-title="Religious",GurSikh Sabha TV (Scarborough)
-http://cdn12.henico.net:8080/live/gsctv/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",H2
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFKLVTatyfmJNJTiSwpS8JTE?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",H2 HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHCTmvKV59tF7s28QnAsOkk/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HBO
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFGCgy3uAQ639eLS2zyN9ags?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HBO 2
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFMJBoPetvkEGENH1XIM8ugI?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HGTV
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFG47r3OovHV6gFDb8YwwJT0?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HGTV HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SCOXcT8vYlpX3M3JBCjJ01M/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HPITV
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFCn2IJ1zu40MrD_nxgi6AX8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HPITV East
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFGYrbh_bePWGyhw1gMqgN2E?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HPITV East
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFA1GR3052UtBK50OIiH_ovI?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HPITV West
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFCdhQlnLuW0ANxUuGZYj1fU?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Historia HD (FR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SG9EhBe_nhDMvz5MKcjfGX8/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",History Channel
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFEGGNEmdKTjn-J_UXSgWMkQ?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",History Channel HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SLFTsr2f5v8I4qBB6fT3QnU/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Hollywood Suite 00s
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFC02nhtkNBv469OUxTHcW-8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Hollywood Suite 70s
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFFfoxOdZZkT9JZroNPtUII8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Hollywood Suite 90s
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFDUFXgMPLAY_hYUpPUldKsw?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png" group-title="News",ICI RDI
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png" group-title="News",ICI RDI
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ICI RDI HD (FR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGyljmfP9J1U0xMcoXMukYI/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ICI Radio-Canada Télé HD (FR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHjArCj_vDb-pKvpwUjhJz0/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="Undefined",IIPC TV
-https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Investigation (FR) HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SNrAnUefBcKHBK-45c-geII/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Jewish Life TV
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFBPMeV9xAZm2Pv1mu0h-vtM?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",LCN HD (FR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SF5orWXEn722yEAOg6EvS54/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Leafs Nation Network
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFEXifdn6vnmnf5XlYL0CkSU?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Legislative Assembly of Ontario
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFCKKR4v5X4lSaPxvEImhHgU?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Lifetime
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFJ6-ZkerTzbmOfa47VxH0Wo?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Lifetime HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SLiVZ9nyuRe8xgLM0Oerm9E/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Love Nature
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFAH4d6zJg7Tk0u-R3vA7lO8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MLB Network
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFB_4OibCoKzf5-iXSTEOS_4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MLB TV HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SKyBJkGcUdoiccdZ_Q1gIOs/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MTV
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFFoTSMscXVv4AZ8l-vik3EQ?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MTV HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMPOfTqE-lHOB2bEFhvrtAk/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Makeful
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFKvgRIJ6uD_fBMgpzxMxqoI?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Moi & Cie HD (FR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFE99t27cO7M5JwwroFe-lU/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/eNu3N0f.png" group-title="Undefined",Montreal Greek TV
-http://94.130.180.175:8081/live/greektv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Much
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFK8Vajyv15pwIDteGSYl8dY?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NBA TV
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFFdlpKS8K3y5JXTHjYLcvlY?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NBA TV HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFQN5tY6WMSXnn2StDN7LTE/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NBC KCRA SD  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFB66Xd3Z_11JaHFi3qL4T3c?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NBC KGET  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFJ2C56BXYDy9FZU7tH0TnUo?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NBC KGET SD  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFGyxrpfjyuaxR7wwzO3qt9E?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NBC KIEM SD  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFM0qCTt-v6UHRDwgqvPPLO0?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NBC KMIR  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFECbmnhUNAw3I_lo1lNiAV0?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NBC KMIR SD  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFCP6Pa1dPkSVCEsY59UkjnY?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NBC KNBC *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFEnUQGRABflv4TWRWj3g5HI?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NBC KNBC SD  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFElEqMTk5zLEN4WoIzU2zFQ?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NBC KNSD  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFGoXWKX2Gc3sO4tRXgjkjzo?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NBC KNSD SD  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFA1RGaBXFWV8lqWD0f0GD-U?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NBC KNTV  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFOTUKEusKgrLXw8GZ5QDpow?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NBC KNVN  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFAFHdSBx8ZL_ebrU66DMX7Q?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NBC KNVN SD  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFM4ZZNVF1vbBpcS9a1zyU8E?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NBC KNVN SD  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFFDQEQRcSVfIGpuaRKweikk?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NBC KSBW  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFPsqglFB8JwX3UHF8UY9unE?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NBC KSBY  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFGLRqufpktyzrmcl2IIjO04?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NBC KSBY SD  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFD2KbxcAtxcXIE4GfnKT_Qw?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NBC KSEE SD  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFM4Q_Z4rzSGG29Juj2xCu1Q?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NFL Network HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJAk1DARxgFCRZ8pu6aVoeI/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://www.thenrb.tv/organization/logo/nrb-tv_WJkwkcRXBEVrzo5_1576430300.jpg" group-title="General",NRB TV (1080p) [Not 24/7]
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NTV St. John`s
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFE1wJfqjxNOQLKnO0fFgFhQ?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Nat Geo Wild HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SP_FGOQ4yZeu9dP7KIUSVp0/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",National Geographic
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFBg_UP9AzDxyf-7funOMPqU?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",National Geographic HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SAFh9l6bzoU66_UqExUByio/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Nickelodeon HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFFT6a3BuJxCySzHamN_oNQ/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",OLN
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFB18i_8gmSWYUbQKU-EUj6E?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",OMNI 2
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFF9VcTmmmUjfpUcRR2rIFJ0?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",OMNI East
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFD8xvAddhqpM40JAze7SE4I?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",OWN
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFE6nwDkKrKpf84YupapxqVo?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",OutTV
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFBZDINeYlvt41DGrvzrMMRo?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",PBS  17 (WNED)
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFJjmBHw7wCyYVQn-kdPFI3o?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",PBS Buffalo
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFFUJR-IQiCz-w5ReFeItBmg?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/CwAdPpZ.jpg" group-title="Undefined",Pardesi TV
-http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Peach Tree
-http://nmstreaming.us:25461/Samex5435/suNxcN8zhd/2090316?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Peachtree
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFDdFI630T1aBkWkkmvr8pcY?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PlymouthRockTV_205x205.png?raw=true" group-title="Undefined",Plymouth Rock TV (1080p)
-https://vse2-eu-all59.secdn.net/barakyah-channel/live/plymouthtv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PlymouthRockTV_205x205.png?raw=true" group-title="Undefined",Plymouth Rock TV (1080p)
-https://vse2-eu-all59.secdn.net/barakyah-channel/live/plymouthtvedge/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA;IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/PRIMECANADA.png" group-title="Entertainment;Undefined",Prime Canada TV
-http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/rEKsf20.jpg" group-title="Undefined",Prime Canada TV
-http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Prise 2 HD (FR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SKxnlIpSaVLjDetsOIr5gdE/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/X9LBFzK.jpg" group-title="Undefined",QVTV
-https://qvmstream.tulix.tv/720p/720p/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",RDS
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFNgFrKIWDl2Jsiz6FYqPSfM?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",RDS 2
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFCZbq3ZGezEvOkyqJivCYpQ?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",RDS HD (FR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPv0RMKM0g2c13hAsmF5UzA/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",RDS INFO
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFGkIybeJPYKMeGco4VAAxVw?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",SLICE
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFM_0zc5ocaPM25jp_Ls7_mo?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET PPV
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFChGPV7tCBVO6MKIFplSOmA?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/AhbJjPL.jpg" group-title="Undefined",Sardari TV
-http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Series+ HD (FR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SKkQl2Y1jGf5AqnzUBRc5iM/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Showcase
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFJw5ai3slzTuktVB-6ecp00?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Showcase HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SF1A-jkDrDg_XFam5jHi6I0/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://www.sikhspiritualcentrerexdale.com/wp-content/uploads/2019/07/favicon-transprent.png" group-title="Undefined",Sikh Spiritual Centre Rexdale (720p)
-https://cdn12.henico.net:8443/live/ssct/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Slice HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJ9Y_R6mmu9aOsjsNdLuaSM/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Smithsonian
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFJDeZhsQLhTIvocLj9TXFPc?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Sportsman
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFNRYNoTh4swy9plY0HkcITM?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Sportsnet East (FHD)
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFImSuZNJsknpNJCNmwvAQS8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Sportsnet HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFu9JLaACu6Ff0V5_EuPetM/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Sportsnet One (FHD)
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFDkt6Gf-lYD18TJ91o8KLak?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Sportsnet Ontario
-http://nmstreaming.us:25461/Samex5435/suNxcN8zhd/2090392?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Sportsnet Ontario  (FHD)
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFK9-ZWZkZ_HRJuNHc6YNf4A?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Sportsnet West (FHD)
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFBUE7o_lw_SsM6jBKQr566k?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Sportsnet World (FHD)
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFKGYo4u_pDQ0r1emLRgf5eg?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Sportsnet World Extra 1 (FHD)
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFCwcZ_w6gy37ng-5VDqVj08?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Sportsnet World Extra 2 (FHD)
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFKui3_OIJ3ONwB7FlZOtpU4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Sportsnet World Extra 3 (FHD)
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFInl9qv4mn5tEgJVx3zEYFs?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Sportsnet World Extra 4 (FHD)
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFGllSl0KfwKbSMWtaqMXtVk?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Stingray Soul Storm (1080p)
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/134/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Stingray Vibe
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFDL08uMglQhVRMgSpf9HhI8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Super Channel Fuse
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFCZTJE2_rbDGNivSK4SDzYI?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Super Channel Heart & Home
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFP5q5NhngCAHOK8fSd_gl54?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Super Channel VAULT
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFLGoc17TlGgqOK14InyFfJo?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Super Sports CH 434
-http://nmstreaming.us:25461/Samex5435/suNxcN8zhd/2090408?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Super Sports CH 465
-http://nmstreaming.us:25461/Samex5435/suNxcN8zhd/2090411?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",T+E
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFBn_OtVYT6L4zXdwsrFuu0w?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TLC
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFInsAHr7V659wWI1UZvGpuc?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TLC HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SDLty5mJ3u1Km88y0T2Um8k/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TREEHOUSE HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SALHMhYcjCULN5i2UeFUTRw/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSC HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SOVILS4hbbFQEy0LL6cmSjw/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 1
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFLzFIkHLhP4iZijHw5RurQE?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 1 (FHD)
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFBzQ5Wvyyne2ibliII41X2o?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 1 HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SCs3j2MPwrfJPYQMsjyDG84/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 2 (FHD)
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFPDTC7h4ZEp96ec03GHOlss?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 2 HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SP-OQiLTOXQ4QgMA7ayn6-I/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 3
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFFHDEIMTEaHSNZ10KdvNOyg?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 3 HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SAMWZFG71mzYqaq5jfzcZZQ/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 4 (FHD)
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFEGq_jTvyzEctbiRd_-y_Xo?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 4 HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMHDlzS-SFTs9S7grg6oQnI/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 5 (FHD)
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFGxDfjvZjjoImRE3SJEijNQ?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 5 HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMmXlYOFB2CoG99OEIQ62jk/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TV Ontario
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFFyC4hRWm9EIlZFrxP_aO-g?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TV5 Québec HD (FR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SEGPKLaW4h40cn4mN2_81uQ/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TVA HD (FR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHQsgaemNqURDXlJSCgpOjk/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TVA Sports 2 HD (FR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHgJRnyWnzTqFjPPpUTFA2Y/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TVA Sports HD (FR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHPmeuWpLyuhCXqg7eNRQ6E/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/KLWdogU.png" group-title="Local",TVC9 (1080p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC0JP0ek-HhcqisiEpsZiQZA/live&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA;IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/rsz_tamil_vision_international1.jpg" group-title="Undefined",Tamil Vision International,Tamil Vision TV
-http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="Undefined",Tamil Vision TV
-http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="Undefined",Tamil Vision TV
-http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Telemundo KCSO  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFH-n_xaLSKAUSqp8mwNUX50?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Telemundo KCSO SD  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFDNkQGhpWUdNm55chLsCqUc?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Telemundo KMUV *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFOe7PYCVaAdJeTPYXclDLpc?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Telemundo KMUV SD  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFFAhEYvUYBKfEyUD9e1P0JA?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Telemundo KNSO  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFFRxr6RgfmcQFbjnoiF_lL8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Telemundo KNSO SD  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFBI8dWANJcy-jr7IuTM5W2o?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Telemundo KSTS  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFKlnQWUIiCRNeiv3EkrO6yQ?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Telemundo KSTS SD  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFPDc167pjQFKAuL-uXqbzvI?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Telemundo KTAS *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFBC0e5GrzPyUMBNvDTap5lA?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Telemundo KTAS SD  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFOciWoz2fX_h0gACcBYg8ek?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Telemundo KVEA *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFCvXXPsZohGXmkw9ERSM7Dg?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Telemundo KVEA SD  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFEvkyTdptkxEO6POPgbXTF8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Teletoon HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFMeKczUAletzfFCu7BB8gc/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",The Cooking Channel
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFCzzt11c7FV7cfkXi2LgRvI?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA;US" tvg-logo="https://i.imgur.com/FlJVD8a.png" group-title="Shop",The Shopping Channel
-https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",The Weather Network HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGCZWneIGshcYez7OaYCAzY/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Toronto 360
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFFeGl0_aA77RQGLK-tvGOWY?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/PkWndsv.png" group-title="Undefined",Toronto 360 TV
-http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Télé Québec HD (FR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMSBN7ULTpljhDPTL4AsSyk/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",UNIMAS KFSF *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFETXaJZdXMuVr97Vcxdg67Y?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",UNIMAS KFSF SD  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFEgG4oRjSCEnstOpLH6pBAU?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",UNIMAS KFTR *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFNNeCosH2L1rMudvtT18-ZY?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",UNIMAS KFTR SD  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFNtvSqlcasQAq-4WTBv3umc?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",UNIMAS KTFK *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFK9Gx9mrRblhNUO9oPZAz3k?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",UNIMAS KTFK SD  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFM0KjV4s_MU_hduf1Xibmk0?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",UNIVISION KDTV  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFFXwfZ0zuDpHP9BQf8tBbco?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",UNIVISION KDTV SD  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFNvkxEpREuVkMQm2DtjlPW0?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",UNIVISION KFTV  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFJ_s3nfjCLHCQ7IzT61E_Zo?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",UNIVISION KMEX *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFPt4RfEYunlLYoFUuXMx3Yo?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",UNIVISION KMEX SD  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFKpT31HyGe4wb4nujUtsMLk?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",UNIVISION KUVS  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFPeqx8KQfCBW2pzK9I_ABks?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",UNIVISION KUVS SD  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFP2Wl0QQ1_nw0z37P9d2CXs?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",UniMas KTFF *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFFhAkKQf039t_6aqaxLUPVU?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",UniMas KTFF SD  *f*
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFIhCSDgHDaxN_FGXgKglqGE?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/RR7ATr2.png" group-title="Local",Uvagut TV (1080p)
-http://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",V Télé
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SP2kt04arRW546llNpecw3I/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",VRAK TV HD (FR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SIMnlKP1TKH0zQkBSr9vvyc/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Vision
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFMEIL5jpBOuWTIh01L6uky8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",W Network HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SE4R4KhkzHGhF90qndgZp3c/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",WWE Network
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFJyQkVZG58v_7oR4uKxv6Kw?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Wild TV
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFLSPyU6cfozojy8tD3kD-CM?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",YES TV
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFAt8UvzgRUMk5j7fwXOeLmk?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",YTV
-http://nmstreaming.us:25461/Samex5435/suNxcN8zhd/2090297?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",YTV HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SNfjaH25UROHYG1_nGFkix8/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Yes TV HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SF0VT8612LIu4H6wjw6xH_c/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Yoopa HD (FR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPaUBpie14vXup4nARh3yNI/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Zeste HD (FR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGJjGmSOhZHl2PfRCBqwMp0/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined", CTV SCI-FI HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SEmCK5mEbSoN6LA9f0mKNfA/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined", Much Music HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SM7vFDLQi0QHF_5huuarNaM/ts?checkedby:iptvcat.com
+#EXTINF:-1,CA (FR) Addik TV SD (P)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112547
+#EXTINF:-1,CA (FR) AMI-tele HD (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112546
+#EXTINF:-1,CA (FR) APTN (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112545
+#EXTINF:-1,CA (FR) Assemblee Nationale du Quebec  (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112544
+#EXTINF:-1,CA (FR) Canal D SD (P)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112543
+#EXTINF:-1,CA (FR) Canal Savoir (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112542
+#EXTINF:-1,CA (FR) Canal Savoir (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112541
+#EXTINF:-1,CA (FR) Canal Savoir SD (P)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112540
+#EXTINF:-1,CA (FR) CASA SD (P)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112539
+#EXTINF:-1,CA (FR) CinePOP SD (P)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112538
+#EXTINF:-1,CA (FR) CPAC (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112537
+#EXTINF:-1,CA (FR) Disney La Chaine (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112536
+#EXTINF:-1,CA (FR) Disney La Chaine (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112535
+#EXTINF:-1,CA (FR)  EMCI TV (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112534
+#EXTINF:-1,CA (FR) EMCI TV2 (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112533
+#EXTINF:-1,CA (FR) Evasion SD (P)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112532
+#EXTINF:-1,CA (FR) EWTN (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112531
+#EXTINF:-1,CA (FR) Francophonie 24 (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112530
+#EXTINF:-1,CA (FR) Historia (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112529
+#EXTINF:-1,CA (FR) ICI Radio-Canada Tele Toronto (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112528
+#EXTINF:-1,CA (FR) ICI RDI (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112527
+#EXTINF:-1,CA (FR) ICI RDI HD (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112526
+#EXTINF:-1,CA (FR) ICI Tele 2 HD (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112525
+#EXTINF:-1,CA (FR) ICI Tele Acadie HD (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112524
+#EXTINF:-1,CA (FR) ICI Tele Alberta HD (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112523
+#EXTINF:-1,CA (FR) ICI Tele CB-Yukon HD (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112522
+#EXTINF:-1,CA (FR) ICI Tele Est-Quebec HD (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112521
+#EXTINF:-1,CA (FR) ICI Tele Estrie HD (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112520
+#EXTINF:-1,CA (FR) ICI Tele (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112519
+#EXTINF:-1,CA (FR) ICI Tele Manitoba HD (D) 
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112518
+#EXTINF:-1,CA (FR) ICI Tele Mauricie HD (D) 
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112517
+#EXTINF:-1,CA (FR) ICI Tele Montreal HD (D) 
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112516
+#EXTINF:-1,CA (FR) ICI Tele Ontario HD (D) 
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112515
+#EXTINF:-1,CA (FR) ICI Tele Ottawa-Gatineau HD (D) 
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112514
+#EXTINF:-1,CA (FR) ICI Tele Quebec HD (D) 
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112513
+#EXTINF:-1,CA (FR) ICI Tele Saguenay HD (D) 
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112512
+#EXTINF:-1,CA (FR) ICI Tele Saskatchewan HD (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112511
+#EXTINF:-1,CA (FR) L'Assemblee nationale du Quebec HD (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112510
+#EXTINF:-1,CA (FR) MAX SD (P)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112509
+#EXTINF:-1,CA (FR) Meteo Media (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112508
+#EXTINF:-1,CA (FR) NETV Toronto (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112507
+#EXTINF:-1,CA (FR) NOOVO (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112506
+#EXTINF:-1,CA (FR) NOOVO Montreal (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112505
+#EXTINF:-1,CA (FR) NOOVO V-Tele HD
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112504
+#EXTINF:-1,CA (FR) Ontario Parliamentary Network (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112503
+#EXTINF:-1,CA (FR) Prise  (P)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112502
+#EXTINF:-1,CA (FR) RDS (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112501
+#EXTINF:-1,CA (FR) RDS HQ (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112500
+#EXTINF:-1,CA (FR) RDS SD (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112499
+#EXTINF:-1,CA (FR) SERIES Plus SD (P)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112498
+#EXTINF:-1,CA (FR) Super Ecran 2 SD (P)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112497
+#EXTINF:-1,CA (FR) Super Ecran 3 SD (P)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112496
+#EXTINF:-1,CA (FR) Super Ecran 4 SD (P)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112495
+#EXTINF:-1,CA (FR) Tele-V (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112494
+#EXTINF:-1,CA (FR) TELEMAGINO SD (P)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112493
+#EXTINF:-1,CA (FR) TFO HD (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112492
+#EXTINF:-1,CA (FR) Trace Naija
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112491
+#EXTINF:-1,CA (FR) Trace Toca
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112490
+#EXTINF:-1,CA (FR) Trace Urban
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112489
+#EXTINF:-1,CA (FR) Trace Urban
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112488
+#EXTINF:-1,CA (FR) Trace Urban Afrique
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112487
+#EXTINF:-1,CA (FR) TV Rogers Ottawa (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112486
+#EXTINF:-1,CA (FR) TV5 Quebec HD (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112485
+#EXTINF:-1,CA (FR) TVA (1) (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112484
+#EXTINF:-1,CA (FR) TVA Carleton HD (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112483
+#EXTINF:-1,CA (FR) TVA Hull (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112482
+#EXTINF:-1,CA (FR) TVA Montreal (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112481
+#EXTINF:-1,CA (FR) TVA Riviere-du-Loup (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112480
+#EXTINF:-1,CA (FR) TVA Sports 2 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112479
+#EXTINF:-1,CA (FR) TVA Sports 2 HD (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112478
+#EXTINF:-1,CA (FR) TVA Sports HD (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112477
+#EXTINF:-1,CA (FR) TVM3 (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112476
+#EXTINF:-1,CA (FR) Unis TV (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112475
+#EXTINF:-1,CA (GR) Montreal Greek TV (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112474
+#EXTINF:-1,CA (GR) Montreal Greek TV (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112473
+#EXTINF:-1,CA (PA) Prime Asia TV (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112472
+#EXTINF:-1,CA (TA) Tamil Vision TV (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112471
+#EXTINF:-1,CA 5AAB TV (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112470
+#EXTINF:-1,CA A&E (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112469
+#EXTINF:-1,CA ABC 5 (WCVB) Boston (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112468
+#EXTINF:-1,CA abc 7 (WKBW) Buffalo (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112467
+#EXTINF:-1,CA ABC 7 (WXYZ) Detroit (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112466
+#EXTINF:-1,CA ABC Spark (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112465
+#EXTINF:-1,CA Aboriginal Peoples Television Network (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112464
+#EXTINF:-1,CA Adult Swim (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112463
+#EXTINF:-1,CA Amazing Discoveries TV (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112462
+#EXTINF:-1,CA AMC (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112461
+#EXTINF:-1,CA AMI TV (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112460
+#EXTINF:-1,CA Animal Planet (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112459
+#EXTINF:-1,CA BBC Toronto Gaunda Punjab 
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112458
+#EXTINF:-1,CA Bein Sports HD   (F)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112457
+#EXTINF:-1,CA Bein Sports (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112456
+#EXTINF:-1,CA BET (P)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112455
+#EXTINF:-1,CA BNN Bloomberg (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112454
+#EXTINF:-1,CA Cable 14 Hamilton (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112453
+#EXTINF:-1,CA CablePulse 24 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112452
+#EXTINF:-1,CA Canada One (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112451
+#EXTINF:-1,CA Canal M  (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112450
+#EXTINF:-1,CA Cartoon Network (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112449
+#EXTINF:-1,CA CBC Calgary HD (D) 
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112448
+#EXTINF:-1,CA CBC Charlottetown HD (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112447
+#EXTINF:-1,CA CBC Edmonton HD (D) 
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112446
+#EXTINF:-1,CA CBC Fredericton HD (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112445
+#EXTINF:-1,CA CBC Halifax HD (D) 
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112444
+#EXTINF:-1,CA Rogers TV PPV (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112443
+#EXTINF:-1,CA CBC Moncton HD (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112442
+#EXTINF:-1,CA CBC Montreal HD (D) 
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112441
+#EXTINF:-1,CA CBC News Network HD (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112440
+#EXTINF:-1,CA CBC News Network HD (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112439
+#EXTINF:-1,CA CBC Ottawa HD (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112438
+#EXTINF:-1,CA CBC Ottawa HD (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112437
+#EXTINF:-1,CA CBC Ottawa SD (P)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112436
+#EXTINF:-1,CA CBC Regina HD (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112435
+#EXTINF:-1,CA CBC SD  (P)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112434
+#EXTINF:-1,CA CBC St John's HD (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112433
+#EXTINF:-1,CA CBC St. John's (CBNT) (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112432
+#EXTINF:-1,CA CBC Toronto (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112431
+#EXTINF:-1,CA CBC Toronto HD (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112430
+#EXTINF:-1,CA CBC Vancouver HD (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112429
+#EXTINF:-1,CA CBC Vancouver SD (P)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112428
+#EXTINF:-1,CA CBC Windsor HD (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112427
+#EXTINF:-1,CA CBC Winnipeg HD (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112426
+#EXTINF:-1,CA CBC Yellowknife HD (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112425
+#EXTINF:-1,CA CBS 4 (WBZ) Boston (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112424
+#EXTINF:-1,CA CHCH (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112423
+#EXTINF:-1,CA City TV Toronto (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112422
+#EXTINF:-1,CA Citytv Toronto (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112421
+#EXTINF:-1,CA CMT (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112420
+#EXTINF:-1,CA CNBC (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112419
+#EXTINF:-1,CA CNN (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112418
+#EXTINF:-1,CA CP24 (Backup) (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112417
+#EXTINF:-1,CA CP24 (P)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112416
+#EXTINF:-1,CA CP24 HD (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112415
+#EXTINF:-1,CA CPAC HD (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112414
+#EXTINF:-1,CA cpac Live Event 2 (EN) (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112413
+#EXTINF:-1,CA cpac Live Event 2 (FR) (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112412
+#EXTINF:-1,CA cpac Live Event 4 (EN) (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112411
+#EXTINF:-1,CA cpac Live Event 4 (FR) (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112410
+#EXTINF:-1,CA cpac Live Event 6 (EN) (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112409
+#EXTINF:-1,CA cpac Live Event 6 (FR) (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112408
+#EXTINF:-1,CA Crave 1 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112407
+#EXTINF:-1,CA Crave 2 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112406
+#EXTINF:-1,CA Crave 3 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112405
+#EXTINF:-1,CA Crave 4 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112404
+#EXTINF:-1,CA Crime & Investigation (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112403
+#EXTINF:-1,CA CTV (Ottawa) (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112402
+#EXTINF:-1,CA CTV Atlantic  (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112401
+#EXTINF:-1,CA CTV Comedy Channel (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112400
+#EXTINF:-1,CA CTV Drama Channel (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112399
+#EXTINF:-1,CA CTV Kitchener (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112398
+#EXTINF:-1,CA CTV News Channel HD (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112397
+#EXTINF:-1,CA CTV News Live Events 1 (P)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112396
+#EXTINF:-1,CA CTV Ottawa HD (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112395
+#EXTINF:-1,CA CTV Sci-Fi Channel (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112394
+#EXTINF:-1,CA CTV Toronto HD (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112393
+#EXTINF:-1,CA CTV Two Atlantic (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112392
+#EXTINF:-1,CA CTV2 Atlantic HD (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112391
+#EXTINF:-1,CA CTV2 Barrie HD (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112390
+#EXTINF:-1,CA CTV2 London (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112389
+#EXTINF:-1,CA CTV2 Ottawa (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112388
+#EXTINF:-1,CA CW 23 (WNLO) Buffalo (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112387
+#EXTINF:-1,CA DAYSTAR TV  (P)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112386
+#EXTINF:-1,CA Discovery Channel (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112385
+#EXTINF:-1,CA Discovery Velocity HD (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112384
+#EXTINF:-1,CA Disney Channel (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112383
+#EXTINF:-1,CA Disney Junior (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112382
+#EXTINF:-1,CA Disney XD (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112381
+#EXTINF:-1,CA DIY (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112380
+#EXTINF:-1,CA DTOUR (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112379
+#EXTINF:-1,CA E! (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112378
+#EXTINF:-1,CA EWTN FHD (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112377
+#EXTINF:-1,CA Family Channel East HD (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112376
+#EXTINF:-1,CA Family CHRGD (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112375
+#EXTINF:-1,CA Family Jr. (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112374
+#EXTINF:-1,CA Food Network (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112373
+#EXTINF:-1,CA FOX 2 (WJBK) Detroit (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112372
+#EXTINF:-1,CA FOX 29 (WUTV) Buffalo (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112371
+#EXTINF:-1,CA Fox News (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112370
+#EXTINF:-1,CA Fox Sports Racing (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112369
+#EXTINF:-1,CA Francophonie 24 (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112368
+#EXTINF:-1,CA FX (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112367
+#EXTINF:-1,CA FXX (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112366
+#EXTINF:-1,CA Game Plus (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112365
+#EXTINF:-1,CA Game TV (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112364
+#EXTINF:-1,CA GINX Esports TV (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112363
+#EXTINF:-1,CA Global Calgary SD (P)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112362
+#EXTINF:-1,CA Global Durham (CHEX-DT-2) (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112361
+#EXTINF:-1,CA Global Durham HD (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112360
+#EXTINF:-1,CA Global Maritimes HD (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112359
+#EXTINF:-1,CA Global National (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112358
+#EXTINF:-1,CA Global News BC (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112357
+#EXTINF:-1,CA Global News Calgary (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112356
+#EXTINF:-1,CA Global News Edmonton (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112355
+#EXTINF:-1,CA Global News Halifax (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112354
+#EXTINF:-1,CA Global News Kingston (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112353
+#EXTINF:-1,CA Global News Lethbridge (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112352
+#EXTINF:-1,CA Global News Montreal (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112351
+#EXTINF:-1,CA Global News National (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112350
+#EXTINF:-1,CA Global News Peterborough (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112349
+#EXTINF:-1,CA Global News Regina (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112348
+#EXTINF:-1,CA Global News Saskatoon (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112347
+#EXTINF:-1,CA Global News Toronto (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112346
+#EXTINF:-1,CA Global News Vancouver (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112345
+#EXTINF:-1,CA Global News Winnipeg (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112344
+#EXTINF:-1,CA Global Toronto HD (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112343
+#EXTINF:-1,CA Golf Channel (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112342
+#EXTINF:-1,CA GurSikh Sabha TV (Scarborough) (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112341
+#EXTINF:-1,CA HBO 1 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112340
+#EXTINF:-1,CA HBO 2 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112339
+#EXTINF:-1,CA Mundo Es Mio (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112338
+#EXTINF:-1,CA HGTV (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112337
+#EXTINF:-1,CA History Channel HD (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112336
+#EXTINF:-1,CA HLN (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112335
+#EXTINF:-1,CA Hollywood Suite 00's (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112334
+#EXTINF:-1,CA Hollywood Suite 70's  (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112333
+#EXTINF:-1,CA Hollywood Suite 80's (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112332
+#EXTINF:-1,CA Hollywood Suite 90's (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112331
+#EXTINF:-1,CA ICI Radio Tele Toronto HD (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112330
+#EXTINF:-1,CA IIPC TV (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112329
+#EXTINF:-1,CA Investigation Discovery (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112328
+#EXTINF:-1,CA Legislative Assembly of British Columbia Committee A (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112327
+#EXTINF:-1,CA Legislative Assembly of Ontario (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112326
+#EXTINF:-1,CA Legislative Assembly of Ontario (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112325
+#EXTINF:-1,CA Lifetime (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112324
+#EXTINF:-1,CA Love Nature HD (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112323
+#EXTINF:-1,CA Makeful (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112322
+#EXTINF:-1,CA MIRACLE (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112321
+#EXTINF:-1,CA MovieTime (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112320
+#EXTINF:-1,CA MSNBC (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112319
+#EXTINF:-1,CA MTV (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112318
+#EXTINF:-1,CA Much (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112317
+#EXTINF:-1,CA Much Music (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112316
+#EXTINF:-1,CA My 43 (WUAB) Cleveland (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112315
+#EXTINF:-1,CA MY 49 (WNYO) Buffalo (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112314
+#EXTINF:-1,CA National Geographic (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112313
+#EXTINF:-1,CA National Geographic Wild (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112312
+#EXTINF:-1,CA NBC  (WYCN) Nashua (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112311
+#EXTINF:-1,CA NBC 2 (WGRZ) Buffalo (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112310
+#EXTINF:-1,CA NBC 4 (WDIV) Detroit (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112309
+#EXTINF:-1,CA NBC 8 (WYCN) Boston (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112308
+#EXTINF:-1,CA Neepawa Community Access TV (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112307
+#EXTINF:-1,CA Nickelodeon (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112306
+#EXTINF:-1,CA NTV St. John`s (CJON - Newfoundland TV) (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112305
+#EXTINF:-1,CA NTV St. John`s (CJON - Newfoundland TV) (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112304
+#EXTINF:-1,CA OLN (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112303
+#EXTINF:-1,CA OMNI 1 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112302
+#EXTINF:-1,CA OMNI 2 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112301
+#EXTINF:-1,CA OMNI East (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112300
+#EXTINF:-1,CA OWN (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112299
+#EXTINF:-1,CA Paramount Network   (F)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112298
+#EXTINF:-1,CA Pardesi TV (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112297
+#EXTINF:-1,CA PBS 10 (WMEM) Presque Isle (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112296
+#EXTINF:-1,CA PBS 17 (WNED) Buffalo (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112295
+#EXTINF:-1,CA PBS 54 (WQLN) Erie (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112294
+#EXTINF:-1,CA PBS Buffalo (WNED)  (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112293
+#EXTINF:-1,CA PBS Detroit (WTVS) (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112292
+#EXTINF:-1,CA Peachtree TV HD (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112291
+#EXTINF:-1,CA Prime Canada TV (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112290
+#EXTINF:-1,CA Quo Vadis TV 
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112289
+#EXTINF:-1,CA QVTV (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112288
+#EXTINF:-1,CA Rogers TV (Corner Brook) (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112287
+#EXTINF:-1,CA Rogers TV (Ottawa) (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112286
+#EXTINF:-1,CA Rogers TV (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112285
+#EXTINF:-1,CA Rogers TV (St. John's) (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112284
+#EXTINF:-1,CA Rogers TV Barrie (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112283
+#EXTINF:-1,CA Rogers TV Bathurst (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112282
+#EXTINF:-1,CA Rogers TV Bathurst (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112281
+#EXTINF:-1,CA Rogers TV Corner_Brook (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112280
+#EXTINF:-1,CA Rogers TV Guelph (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112279
+#EXTINF:-1,CA Rogers TV London HD (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112278
+#EXTINF:-1,CA Rogers TV St. Thomas/Strathroy (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112277
+#EXTINF:-1,CA Rogers TV Waterloo (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112276
+#EXTINF:-1,CA Salt + Light TV (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112275
+#EXTINF:-1,CA Sardari TV (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112274
+#EXTINF:-1,CA Showcase (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112273
+#EXTINF:-1,CA SLICE (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112272
+#EXTINF:-1,CA Starz 1 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112271
+#EXTINF:-1,CA Starz 2 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112270
+#EXTINF:-1,CA Super Channel Fuse (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112269
+#EXTINF:-1,CA Super Channel Heart & Home (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112268
+#EXTINF:-1,CA Super Channel Vault (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112267
+#EXTINF:-1,CA SUPER SPORTS CH 267 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112266
+#EXTINF:-1,CA SUPER SPORTS CH 296 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112265
+#EXTINF:-1,CA SUPER SPORTS CH 297 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112264
+#EXTINF:-1,CA SUPER SPORTS CH 322 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112263
+#EXTINF:-1,CA SUPER SPORTS CH 323 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112262
+#EXTINF:-1,CA SUPER SPORTS CH 324 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112261
+#EXTINF:-1,CA SUPER SPORTS CH 368 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112260
+#EXTINF:-1,CA SUPER SPORTS CH 422 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112259
+#EXTINF:-1,CA SUPER SPORTS CH 431/476 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112258
+#EXTINF:-1,CA SUPER SPORTS CH 432/472 (Backup) (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112257
+#EXTINF:-1,CA SUPER SPORTS CH 432/472 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112256
+#EXTINF:-1,CA SUPER SPORTS CH 432/472 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112255
+#EXTINF:-1,CA SUPER SPORTS CH 433 (Backup) (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112254
+#EXTINF:-1,CA SUPER SPORTS CH 433 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112253
+#EXTINF:-1,CA SUPER SPORTS CH 434 (Backup) (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112252
+#EXTINF:-1,CA SUPER SPORTS CH 434 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112251
+#EXTINF:-1,CA SUPER SPORTS CH 435 (Backup) (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112250
+#EXTINF:-1,CA SUPER SPORTS CH 435 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112249
+#EXTINF:-1,CA SUPER SPORTS CH 436 (Backup)  (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112248
+#EXTINF:-1,CA SUPER SPORTS CH 436 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112247
+#EXTINF:-1,CA SUPER SPORTS CH 436 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112246
+#EXTINF:-1,CA SUPER SPORTS CH 437 (Backup)  (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112245
+#EXTINF:-1,CA SUPER SPORTS CH 437 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112244
+#EXTINF:-1,CA SUPER SPORTS CH 437 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112243
+#EXTINF:-1,CA SUPER SPORTS CH 438 (Backup)  (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112242
+#EXTINF:-1,CA SUPER SPORTS CH 438 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112241
+#EXTINF:-1,CA SUPER SPORTS CH 439 (Backup)  (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112240
+#EXTINF:-1,CA SUPER SPORTS CH 439 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112239
+#EXTINF:-1,CA SUPER SPORTS CH 439 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112238
+#EXTINF:-1,CA SUPER SPORTS CH 440  (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112237
+#EXTINF:-1,CA SUPER SPORTS CH 440 (Backup)  (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112236
+#EXTINF:-1,CA SUPER SPORTS CH 440 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112235
+#EXTINF:-1,CA SUPER SPORTS CH 441 (Backup) (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112234
+#EXTINF:-1,CA SUPER SPORTS CH 441 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112233
+#EXTINF:-1,CA SUPER SPORTS CH 441 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112232
+#EXTINF:-1,CA SUPER SPORTS CH 442 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112231
+#EXTINF:-1,CA SUPER SPORTS CH 442 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112230
+#EXTINF:-1,CA SUPER SPORTS CH 443  (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112229
+#EXTINF:-1,CA SUPER SPORTS CH 443 (Backup)  (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112228
+#EXTINF:-1,CA SUPER SPORTS CH 444 (Backup)  (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112227
+#EXTINF:-1,CA SUPER SPORTS CH 444 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112226
+#EXTINF:-1,CA SUPER SPORTS CH 444 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112225
+#EXTINF:-1,CA SUPER SPORTS CH 450 (Backup) (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112224
+#EXTINF:-1,CA SUPER SPORTS CH 450 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112223
+#EXTINF:-1,CA SUPER SPORTS CH 450 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112222
+#EXTINF:-1,CA SUPER SPORTS CH 452 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112221
+#EXTINF:-1,CA SUPER SPORTS CH 453 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112220
+#EXTINF:-1,CA SUPER SPORTS CH 454/477 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112219
+#EXTINF:-1,CA SUPER SPORTS CH 455/478  (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112218
+#EXTINF:-1,CA SUPER SPORTS CH 455/478 (Backup)  (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112217
+#EXTINF:-1,CA SUPER SPORTS CH 455/478 (Backup) (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112216
+#EXTINF:-1,CA SUPER SPORTS CH 456/479 (Backup) (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112215
+#EXTINF:-1,CA SUPER SPORTS CH 456/479 (Backup) (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112214
+#EXTINF:-1,CA SUPER SPORTS CH 456/479 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112213
+#EXTINF:-1,CA SUPER SPORTS CH 457/480 (Backup) (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112212
+#EXTINF:-1,CA SUPER SPORTS CH 457/480 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112211
+#EXTINF:-1,CA SUPER SPORTS CH 457/480 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112210
+#EXTINF:-1,CA SUPER SPORTS CH 458/481 (Backup) (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112209
+#EXTINF:-1,CA SUPER SPORTS CH 458/481 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112208
+#EXTINF:-1,CA SUPER SPORTS CH 459/482 (Backup) (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112207
+#EXTINF:-1,CA SUPER SPORTS CH 459/482 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112206
+#EXTINF:-1,CA SUPER SPORTS CH 460/483 (Backup) (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112205
+#EXTINF:-1,CA SUPER SPORTS CH 460/483 (Backup) (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112204
+#EXTINF:-1,CA SUPER SPORTS CH 460/483 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112203
+#EXTINF:-1,CA SUPER SPORTS CH 461 (Backup)  (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112202
+#EXTINF:-1,CA SUPER SPORTS CH 461 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112201
+#EXTINF:-1,CA SUPER SPORTS CH 462 (Backup)  (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112200
+#EXTINF:-1,CA SUPER SPORTS CH 462 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112199
+#EXTINF:-1,CA SUPER SPORTS CH 464 (Backup) (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112198
+#EXTINF:-1,CA SUPER SPORTS CH 464 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112197
+#EXTINF:-1,CA SUPER SPORTS CH 465 (Backup) (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112196
+#EXTINF:-1,CA SUPER SPORTS CH 465 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112195
+#EXTINF:-1,CA SUPER SPORTS CH 473 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112194
+#EXTINF:-1,CA SUPER SPORTS CH 473 Backup (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112193
+#EXTINF:-1,CA SUPER SPORTS CH 474 (Backup) (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112192
+#EXTINF:-1,CA SUPER SPORTS CH 474 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112191
+#EXTINF:-1,CA SUPER SPORTS CH 475 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112190
+#EXTINF:-1,CA SUPER SPORTS CH 476 (Backup) (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112189
+#EXTINF:-1,CA SUPER SPORTS CH 476 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112188
+#EXTINF:-1,CA SUPER SPORTS CH 477 (Backup)  (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112187
+#EXTINF:-1,CA SUPER SPORTS CH 477 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112186
+#EXTINF:-1,CA SUPER SPORTS CH 484 (Backup) (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112185
+#EXTINF:-1,CA SUPER SPORTS CH 484 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112184
+#EXTINF:-1,CA TAG TV (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112183
+#EXTINF:-1,CA Teletoon (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112182
+#EXTINF:-1,CA The Fight Network (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112181
+#EXTINF:-1,CA The Fight Network SD (P)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112180
+#EXTINF:-1,CA The Shopping Channel (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112179
+#EXTINF:-1,CA The Shopping Channel (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112178
+#EXTINF:-1,CA TLC (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112177
+#EXTINF:-1,CA Toronto 360 TV (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112176
+#EXTINF:-1,CA TRAVEL ESCAPE (P)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112175
+#EXTINF:-1,CA Treehouse (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112174
+#EXTINF:-1,CA TSN 1 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112173
+#EXTINF:-1,CA TSN 2 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112172
+#EXTINF:-1,CA TSN 3 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112171
+#EXTINF:-1,CA TSN 4 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112170
+#EXTINF:-1,CA TSN 5 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112169
+#EXTINF:-1,CA TSN4 HD Blackout (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112168
+#EXTINF:-1,CA TSN5 Blackout (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112167
+#EXTINF:-1,CA TSN5 HD Blackout 2 (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112166
+#EXTINF:-1,CA Turner Classic Movies (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112165
+#EXTINF:-1,CA TV Ontario (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112164
+#EXTINF:-1,CA TV Rogers (Moncton) (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112163
+#EXTINF:-1,CA TVO HD (P)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112162
+#EXTINF:-1,CA TVO Ontario (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112161
+#EXTINF:-1,CA VBS (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112160
+#EXTINF:-1,CA Vision HD (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112159
+#EXTINF:-1,CA W NETWORK (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112158
+#EXTINF:-1,CA WCGTV (D)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112157
+#EXTINF:-1,CA WGN 9 Chicago SD (P)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112156
+#EXTINF:-1,CA WWE Network (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112155
+#EXTINF:-1,CA YES TV (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112154
+#EXTINF:-1,CA YTV East (R)
+http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/112153
